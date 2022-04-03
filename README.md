@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-##KARTACA KOD
+## KARTACA KOD
 
 gAAAAABiL0Q3lL2dJAe4Rxtr4Kekt6ya7xgGDPWLc-skTIJSzIiSEPrl0NilhMk8qUhZeWh_XI0v7tzn2iqF9CJueS0gS89wyQ-mUE0uauCijB5JhB1XwRElmz5KFfXH1sXo-0IRexxfv166_rlLymjuLOhCzQt9hPTfDuJ2YbzrvULcjSOcTT_GW9mGA5fOyglob0bCRH5s2n9T7UBzVIDcGmurjIMJ1ITRNDaHv9_YpDu9lf-KWqM=
