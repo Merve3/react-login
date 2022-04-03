@@ -2,7 +2,7 @@ import React from 'react'
 import validate from './validateInfo';
 import useForm from './useForm';
 import './Form.css'
-import Login from './Login';
+
 
 
 const FormSignup = ({ submitForm }) => {
@@ -10,6 +10,8 @@ const FormSignup = ({ submitForm }) => {
       submitForm,
       validate
     );
+
+   
 
 
   return (
@@ -71,7 +73,7 @@ const FormSignup = ({ submitForm }) => {
           Sign up
         </button>
         <span className='form-input-login'>
-          Already have an account? Login <link to="Login">here</link>
+          Already have an account? Login <a href="">here</a>
         </span>
       </form>
     </div>
